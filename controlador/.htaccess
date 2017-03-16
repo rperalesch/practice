@@ -1,0 +1,2 @@
+ErrorDocument 403 /intranet/mensaje.html
+ErrorDocument 404 /intranet/mensaje.html
